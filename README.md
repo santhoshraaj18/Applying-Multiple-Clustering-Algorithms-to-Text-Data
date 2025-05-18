@@ -66,6 +66,4 @@ The notebook expects an Excel file containing the survey responses. The file pat
 
 Feel free to fork this repository and adapt the code for your own text clustering tasks.
 
-## License
 
-[Specify your license here, e.g., MIT License]
